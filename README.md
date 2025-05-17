@@ -153,7 +153,3 @@ MIT — free to use, free to modify.
 ## 🙏 Acknowledgments
 
 Built to help developers using React Native and Expo save time. Inspired by projects like [shadcn/ui](https://ui.shadcn.com/), where you own the code.
-
-```
-
-```
